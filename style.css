@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    list-style-image: url("https://www.fg-a.com/bullets/1-star-2-w.gif");
+}
+
+/* for table in favorites page */
+div {
+    display: inline-block ;
+}
+
+img {
+    margin: 20px 0 20px 0;
+}
